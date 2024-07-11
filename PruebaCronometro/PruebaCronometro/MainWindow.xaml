@@ -1,0 +1,19 @@
+﻿<Window x:Class="PruebaCronometro.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PruebaCronometro"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock x:Name="TimeDisplay" FontSize="24" HorizontalAlignment="Center"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+                <Button x:Name="StartButton" Content="Start" Width="75" Margin="5" Click="StartButton_Click"/>
+                <Button x:Name="PauseButton" Content="Pause" Width="75" Margin="5" Click="PauseButton_Click"/>
+                <Button x:Name="StopButton" Content="Stop" Width="75" Margin="5" Click="StopButton_Click"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

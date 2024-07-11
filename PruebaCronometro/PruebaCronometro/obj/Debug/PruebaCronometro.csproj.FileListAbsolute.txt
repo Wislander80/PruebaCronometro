@@ -1,0 +1,15 @@
+C:\Users\Wislander\Documents\Visual Studio 2017\Projects\PruebaCronometro\PruebaCronometro\obj\Debug\PruebaCronometro.csprojAssemblyReference.cache
+C:\Users\Wislander\Documents\Visual Studio 2017\Projects\PruebaCronometro\PruebaCronometro\obj\Debug\MainWindow.g.cs
+C:\Users\Wislander\Documents\Visual Studio 2017\Projects\PruebaCronometro\PruebaCronometro\obj\Debug\App.g.cs
+C:\Users\Wislander\Documents\Visual Studio 2017\Projects\PruebaCronometro\PruebaCronometro\obj\Debug\PruebaCronometro_MarkupCompile.cache
+C:\Users\Wislander\Documents\Visual Studio 2017\Projects\PruebaCronometro\PruebaCronometro\obj\Debug\PruebaCronometro_MarkupCompile.lref
+C:\Users\Wislander\Documents\Visual Studio 2017\Projects\PruebaCronometro\PruebaCronometro\bin\Debug\PruebaCronometro.exe.config
+C:\Users\Wislander\Documents\Visual Studio 2017\Projects\PruebaCronometro\PruebaCronometro\bin\Debug\PruebaCronometro.exe
+C:\Users\Wislander\Documents\Visual Studio 2017\Projects\PruebaCronometro\PruebaCronometro\bin\Debug\PruebaCronometro.pdb
+C:\Users\Wislander\Documents\Visual Studio 2017\Projects\PruebaCronometro\PruebaCronometro\obj\Debug\MainWindow.baml
+C:\Users\Wislander\Documents\Visual Studio 2017\Projects\PruebaCronometro\PruebaCronometro\obj\Debug\PruebaCronometro.g.resources
+C:\Users\Wislander\Documents\Visual Studio 2017\Projects\PruebaCronometro\PruebaCronometro\obj\Debug\PruebaCronometro.Properties.Resources.resources
+C:\Users\Wislander\Documents\Visual Studio 2017\Projects\PruebaCronometro\PruebaCronometro\obj\Debug\PruebaCronometro.csproj.GenerateResource.cache
+C:\Users\Wislander\Documents\Visual Studio 2017\Projects\PruebaCronometro\PruebaCronometro\obj\Debug\PruebaCronometro.csproj.CoreCompileInputs.cache
+C:\Users\Wislander\Documents\Visual Studio 2017\Projects\PruebaCronometro\PruebaCronometro\obj\Debug\PruebaCronometro.exe
+C:\Users\Wislander\Documents\Visual Studio 2017\Projects\PruebaCronometro\PruebaCronometro\obj\Debug\PruebaCronometro.pdb
